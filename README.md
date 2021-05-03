@@ -1,3 +1,3 @@
 # semg-prelim
- 
-Preliminary feature extraction and supervised training of 1D time series sEMG data in MATLAB.
+
+Preliminary feature extraction and supervised training of 1D time series needle EMG data in MATLAB.
